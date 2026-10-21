@@ -1,0 +1,201 @@
+patient_admission_date,patient_gender,patient_age,patient_race,department_referral,patient_admission_flag,patient_satisfaction_score,patient_waittime,patients_cm,year,month,weekday,day_name,month_name,hour,age_group,name
+2024-06-30 18:39:00,M,63,White,Cardiology,False,5.0,60,0,2024,6,6,Sunday,June,18,senior,D Earpe
+2023-04-18 16:05:00,M,11,African American,unknown,False,5.0,35,0,2023,4,1,Tuesday,April,16,child,E Rowcastle
+2023-07-27 06:18:00,M,15,African American,Renal,True,4.0,26,0,2023,7,3,Thursday,July,6,young adult,C Solloway
+2024-10-11 01:35:00,M,60,Declined to Identify,General Practice,False,5.0,51,0,2024,10,4,Friday,October,1,senior,L Buttner
+2024-03-21 17:13:00,F,13,Declined to Identify,unknown,False,6.0,17,0,2024,3,3,Thursday,March,17,senior,P Qusklay
+2024-09-27 15:58:00,F,41,Declined to Identify,unknown,True,5.0,19,0,2024,9,4,Friday,September,15,middle age,N Gecke
+2024-07-11 18:23:00,M,48,Two or More Races,unknown,True,5.0,22,0,2024,7,3,Thursday,July,18,middle age,U Greed
+2024-09-20 22:46:00,M,76,African American,unknown,True,5.0,20,0,2024,9,4,Friday,September,22,senior,C Thorne
+2023-05-11 14:13:00,M,10,Two or More Races,unknown,True,5.0,50,1,2023,5,3,Thursday,May,14,child,A Rainsbury
+2023-05-07 17:43:00,M,29,African American,unknown,True,5.0,30,1,2023,5,6,Sunday,May,17,adult,V Parrot
+2024-04-21 09:04:00,F,28,African American,unknown,False,5.0,50,0,2024,4,6,Sunday,April,9,adult,F Brockest
+2024-10-26 19:24:00,F,13,African American,General Practice,False,3.0,39,0,2024,10,5,Saturday,October,19,senior,O Casolla
+2023-10-24 15:50:00,F,42,Asian,General Practice,True,5.0,38,0,2023,10,1,Tuesday,October,15,middle age,J Madgett
+2023-09-28 13:56:00,F,44,African American,unknown,False,5.0,49,0,2023,9,3,Thursday,September,13,middle age,F Matuszyk
+2024-04-03 04:49:00,M,34,White,unknown,True,5.0,20,0,2024,4,2,Wednesday,April,4,middle age,S Saltrese
+2024-06-23 00:17:00,M,36,Asian,unknown,False,5.0,48,0,2024,6,6,Sunday,June,0,middle age,O Marsden
+2024-10-26 23:30:00,M,55,White,unknown,True,5.0,18,0,2024,10,5,Saturday,October,23,senior,I Grolle
+2024-02-10 11:00:00,M,15,Two or More Races,General Practice,True,5.0,57,0,2024,2,5,Saturday,February,11,young adult,R McNeice
+2024-02-01 16:41:00,M,15,Two or More Races,unknown,False,7.0,37,0,2024,2,3,Thursday,February,16,young adult,M Akroyd
+2023-11-16 15:03:00,M,41,Declined to Identify,General Practice,True,5.0,39,0,2023,11,3,Thursday,November,15,middle age,A Wein
+2023-12-31 07:02:00,F,72,Two or More Races,unknown,True,5.0,27,0,2023,12,6,Sunday,December,7,senior,X Button
+2024-01-02 14:06:00,M,6,African American,Orthopedics,True,5.0,19,0,2024,1,1,Tuesday,January,14,child,R Buller
+2023-05-12 13:29:00,M,49,White,unknown,True,2.0,55,1,2023,5,4,Friday,May,13,middle age,O Laurenceau
+2023-06-04 07:23:00,F,20,Two or More Races,unknown,True,4.0,24,0,2023,6,6,Sunday,June,7,adult,E Gepheart
+2024-07-31 20:52:00,M,53,African American,General Practice,False,5.0,46,0,2024,7,2,Wednesday,July,20,senior,J Franceschino
+2023-07-12 20:59:00,F,62,Two or More Races,General Practice,False,5.0,33,0,2023,7,2,Wednesday,July,20,senior,S Heliar
+2023-04-05 15:08:00,M,76,Pacific Islander,General Practice,False,5.0,27,0,2023,4,2,Wednesday,April,15,senior,T McInerney
+2024-02-24 17:39:00,M,51,Two or More Races,unknown,True,5.0,56,0,2024,2,5,Saturday,February,17,senior,H Hillyatt
+2023-12-23 14:33:00,M,48,African American,unknown,False,5.0,29,0,2023,12,5,Saturday,December,14,middle age,E Finby
+2024-06-25 23:17:00,F,64,Two or More Races,General Practice,False,0.0,27,0,2024,6,1,Tuesday,June,23,senior,X Rivelon
+2023-04-13 18:04:00,F,29,White,General Practice,True,8.0,17,0,2023,4,3,Thursday,April,18,adult,B Thorold
+2024-05-07 15:04:00,F,40,White,unknown,False,6.0,36,0,2024,5,1,Tuesday,May,15,middle age,Z La Wille
+2023-08-15 07:37:00,M,22,Two or More Races,unknown,True,5.0,33,0,2023,8,1,Tuesday,August,7,adult,I Timpany
+2024-02-24 11:11:00,F,13,Two or More Races,unknown,False,5.0,24,0,2024,2,5,Saturday,February,11,senior,P Kalkofer
+2023-09-30 20:42:00,M,28,Declined to Identify,General Practice,False,5.0,53,0,2023,9,5,Saturday,September,20,adult,N Hing
+2024-03-16 16:16:00,F,67,White,unknown,False,1.0,43,0,2024,3,5,Saturday,March,16,senior,W Ketcher
+2024-09-23 00:03:00,M,63,White,Renal,False,5.0,15,0,2024,9,0,Monday,September,0,senior,M Regus
+2024-09-19 05:15:00,M,1,White,unknown,False,5.0,34,0,2024,9,3,Thursday,September,5,infant,Y Raynard
+2023-08-01 07:12:00,F,22,Declined to Identify,unknown,True,5.0,29,0,2023,8,1,Tuesday,August,7,adult,Q Celli
+2023-09-27 08:44:00,M,22,Two or More Races,unknown,True,5.0,14,0,2023,9,2,Wednesday,September,8,adult,T McDowell
+2024-03-16 05:47:00,F,49,Native American/Alaska Native,unknown,False,5.0,52,0,2024,3,5,Saturday,March,5,middle age,V Stiddard
+2024-07-05 15:10:00,M,34,African American,unknown,True,5.0,28,0,2024,7,4,Friday,July,15,middle age,S Noirel
+2023-04-16 15:35:00,F,52,Two or More Races,unknown,True,5.0,29,0,2023,4,6,Sunday,April,15,senior,J Clue
+2024-01-28 09:56:00,M,12,Pacific Islander,unknown,False,4.0,39,0,2024,1,6,Sunday,January,9,child,T Drache
+2024-07-23 04:54:00,F,14,Declined to Identify,Gastroenterology,False,5.0,36,0,2024,7,1,Tuesday,July,4,young adult,V Huckel
+2024-02-03 17:02:00,F,26,Two or More Races,unknown,True,5.0,16,0,2024,2,5,Saturday,February,17,adult,I Hunstone
+2023-09-22 18:46:00,M,75,White,General Practice,False,5.0,14,0,2023,9,4,Friday,September,18,senior,Q Steljes
+2023-10-03 00:01:00,M,5,Declined to Identify,Orthopedics,True,5.0,38,0,2023,10,1,Tuesday,October,0,infant,H Rheubottom
+2023-06-26 11:10:00,M,45,White,unknown,True,9.0,57,0,2023,6,0,Monday,June,11,middle age,C Heintsch
+2023-12-09 02:21:00,M,36,White,unknown,False,5.0,30,0,2023,12,5,Saturday,December,2,middle age,X Janczewski
+2023-09-01 15:53:00,M,35,White,Orthopedics,True,0.0,28,0,2023,9,4,Friday,September,15,middle age,X Brightman
+2023-04-27 12:40:00,M,73,African American,unknown,True,5.0,25,0,2023,4,3,Thursday,April,12,senior,K Walework
+2024-05-08 18:03:00,M,77,Native American/Alaska Native,General Practice,False,0.0,17,0,2024,5,2,Wednesday,May,18,senior,X Klimowicz
+2024-09-26 10:38:00,F,29,Two or More Races,unknown,False,5.0,48,0,2024,9,3,Thursday,September,10,adult,P Stienton
+2024-08-29 14:31:00,F,37,Pacific Islander,General Practice,True,5.0,25,0,2024,8,3,Thursday,August,14,middle age,B Downgate
+2024-04-25 23:31:00,F,38,African American,General Practice,False,5.0,34,0,2024,4,3,Thursday,April,23,middle age,U Budcock
+2024-07-16 10:26:00,M,1,White,General Practice,False,5.0,58,0,2024,7,1,Tuesday,July,10,infant,Z Skerm
+2023-10-20 09:11:00,M,29,White,unknown,True,4.0,23,0,2023,10,4,Friday,October,9,adult,H Jebb
+2023-12-23 02:13:00,F,33,Two or More Races,unknown,False,5.0,38,0,2023,12,5,Saturday,December,2,middle age,P Posen
+2024-06-13 06:21:00,F,35,White,unknown,True,5.0,59,0,2024,6,3,Thursday,June,6,middle age,J Ebbins
+2024-09-20 03:05:00,M,22,Native American/Alaska Native,unknown,False,5.0,36,0,2024,9,4,Friday,September,3,adult,N Antonio
+2024-03-30 17:54:00,M,52,African American,unknown,False,5.0,27,0,2024,3,5,Saturday,March,17,senior,Y Barhems
+2023-08-04 01:54:00,M,40,African American,Orthopedics,True,6.0,28,0,2023,8,4,Friday,August,1,middle age,Q Gartside
+2024-09-06 03:13:00,M,8,White,Orthopedics,False,5.0,56,0,2024,9,4,Friday,September,3,child,Q Lomasna
+2024-06-17 10:22:00,M,73,White,General Practice,False,5.0,24,0,2024,6,0,Monday,June,10,senior,D Ballin
+2024-09-11 11:41:00,M,44,African American,unknown,False,5.0,44,0,2024,9,2,Wednesday,September,11,middle age,I Bertholin
+2024-07-10 09:45:00,M,79,Asian,unknown,True,5.0,52,0,2024,7,2,Wednesday,July,9,senior,C Poltone
+2023-08-12 17:53:00,F,73,Declined to Identify,Neurology,False,5.0,16,0,2023,8,5,Saturday,August,17,senior,L Byart
+2024-01-09 13:56:00,F,1,Two or More Races,unknown,False,0.0,19,0,2024,1,1,Tuesday,January,13,infant,D Peirson
+2023-08-17 09:55:00,M,74,Native American/Alaska Native,Orthopedics,True,5.0,59,0,2023,8,3,Thursday,August,9,senior,N Redgrave
+2024-08-17 21:27:00,M,28,White,unknown,False,5.0,34,0,2024,8,5,Saturday,August,21,adult,V Hayselden
+2024-10-16 19:12:00,F,2,Asian,Cardiology,True,5.0,18,0,2024,10,2,Wednesday,October,19,infant,T McGiffin
+2024-06-21 19:15:00,M,40,Asian,unknown,True,5.0,16,0,2024,6,4,Friday,June,19,middle age,D Baudon
+2023-05-17 01:52:00,F,14,African American,unknown,True,5.0,31,1,2023,5,2,Wednesday,May,1,young adult,Z Gritten
+2024-06-22 03:22:00,F,71,Declined to Identify,unknown,True,5.0,46,0,2024,6,5,Saturday,June,3,senior,T Lothean
+2024-07-27 12:32:00,F,43,Two or More Races,unknown,False,5.0,32,0,2024,7,5,Saturday,July,12,middle age,O Giberd
+2023-10-04 20:48:00,F,54,Native American/Alaska Native,General Practice,True,5.0,60,0,2023,10,2,Wednesday,October,20,senior,Q Parkins
+2023-05-30 04:08:00,F,47,African American,Orthopedics,False,7.0,37,1,2023,5,1,Tuesday,May,4,middle age,L Witherow
+2024-10-21 11:48:00,F,64,African American,Orthopedics,True,5.0,30,0,2024,10,0,Monday,October,11,senior,S Simkovitz
+2023-10-18 06:55:00,F,49,White,General Practice,False,5.0,12,0,2023,10,2,Wednesday,October,6,middle age,M Steinor
+2024-10-02 03:01:00,M,2,Declined to Identify,unknown,True,5.0,29,0,2024,10,2,Wednesday,October,3,infant,J Grimbaldeston
+2023-11-19 19:58:00,F,9,African American,unknown,True,5.0,32,0,2023,11,6,Sunday,November,19,child,X Railton
+2023-09-09 19:15:00,M,14,Declined to Identify,Orthopedics,False,5.0,36,0,2023,9,5,Saturday,September,19,young adult,G Edington
+2023-07-06 17:13:00,M,9,Two or More Races,unknown,False,5.0,29,0,2023,7,3,Thursday,July,17,child,X Griffey
+2024-04-23 16:30:00,F,4,White,Neurology,True,5.0,21,0,2024,4,1,Tuesday,April,16,infant,S Jaquest
+2023-07-12 08:11:00,M,24,African American,unknown,False,7.0,12,0,2023,7,2,Wednesday,July,8,adult,O Francillo
+2023-07-06 02:28:00,F,10,African American,unknown,False,5.0,38,0,2023,7,3,Thursday,July,2,child,L Fransemai
+2023-12-31 21:01:00,M,69,White,unknown,False,5.0,11,0,2023,12,6,Sunday,December,21,senior,G D'Orsay
+2024-07-21 12:51:00,F,16,White,Orthopedics,False,5.0,36,0,2024,7,6,Sunday,July,12,young adult,G Sinnott
+2023-10-12 20:24:00,M,44,Two or More Races,unknown,True,5.0,58,0,2023,10,3,Thursday,October,20,middle age,O Blumsom
+2024-01-27 02:24:00,M,37,Two or More Races,unknown,False,5.0,15,0,2024,1,5,Saturday,January,2,middle age,H Cotgrove
+2023-05-04 07:22:00,F,20,African American,unknown,False,5.0,49,1,2023,5,3,Thursday,May,7,adult,M Beiderbecke
+2024-02-01 07:32:00,F,39,White,General Practice,False,8.0,37,0,2024,2,3,Thursday,February,7,middle age,F Bourcq
+2024-04-04 05:33:00,M,15,Two or More Races,unknown,False,5.0,17,0,2024,4,3,Thursday,April,5,young adult,V Cutts
+2023-07-12 13:34:00,M,23,White,unknown,False,2.0,54,0,2023,7,2,Wednesday,July,13,adult,G Goodfellowe
+2024-10-10 04:29:00,F,10,White,General Practice,True,5.0,26,0,2024,10,3,Thursday,October,4,child,M Plews
+2024-03-01 07:29:00,M,18,Asian,Physiotherapy,False,5.0,19,0,2024,3,4,Friday,March,7,young adult,L Ewers
+2023-08-18 09:39:00,F,69,Declined to Identify,unknown,False,4.0,41,0,2023,8,4,Friday,August,9,senior,N Darte
+2023-07-02 13:11:00,F,63,African American,unknown,True,5.0,53,0,2023,7,6,Sunday,July,13,senior,K Doe
+2023-04-15 23:41:00,M,20,Declined to Identify,unknown,True,8.0,47,0,2023,4,5,Saturday,April,23,adult,O Dinwoodie
+2023-08-14 19:00:00,F,28,Declined to Identify,unknown,False,5.0,57,0,2023,8,0,Monday,August,19,adult,F Oliver-Paull
+2023-05-06 18:02:00,F,45,White,Orthopedics,True,3.0,16,1,2023,5,5,Saturday,May,18,middle age,U Kloska
+2023-06-23 03:06:00,M,25,Two or More Races,unknown,True,5.0,45,0,2023,6,4,Friday,June,3,adult,D Prinn
+2024-04-04 04:19:00,F,15,Native American/Alaska Native,unknown,True,5.0,44,0,2024,4,3,Thursday,April,4,young adult,R Shovlar
+2023-08-29 21:58:00,F,54,African American,unknown,False,5.0,17,0,2023,8,1,Tuesday,August,21,senior,N Kellough
+2024-10-03 04:02:00,F,49,Two or More Races,unknown,False,5.0,23,0,2024,10,3,Thursday,October,4,middle age,G Marrow
+2024-03-05 04:54:00,M,10,Asian,Orthopedics,False,4.0,57,0,2024,3,1,Tuesday,March,4,child,Q Sweedland
+2023-06-15 09:14:00,M,47,White,General Practice,True,5.0,51,0,2023,6,3,Thursday,June,9,middle age,G Hablet
+2023-11-11 13:24:00,F,1,African American,unknown,True,5.0,48,0,2023,11,5,Saturday,November,13,infant,E Itscowicz
+2023-04-28 05:36:00,F,76,White,unknown,True,5.0,41,0,2023,4,4,Friday,April,5,senior,J Vain
+2023-07-21 12:07:00,M,47,Declined to Identify,unknown,True,5.0,33,0,2023,7,4,Friday,July,12,middle age,V Poytheras
+2023-09-01 20:41:00,F,25,African American,General Practice,True,5.0,11,0,2023,9,4,Friday,September,20,adult,G Cyples
+2024-04-24 15:59:00,M,7,White,unknown,True,5.0,35,0,2024,4,2,Wednesday,April,15,child,B O'Kynsillaghe
+2024-06-23 10:53:00,M,28,White,unknown,False,5.0,18,0,2024,6,6,Sunday,June,10,adult,P Cleall
+2024-08-31 15:40:00,F,78,White,General Practice,True,5.0,26,0,2024,8,5,Saturday,August,15,senior,M Gurry
+2023-12-08 00:29:00,M,67,African American,unknown,False,7.0,47,0,2023,12,4,Friday,December,0,senior,D Illiston
+2024-08-10 02:38:00,F,45,White,Orthopedics,False,5.0,57,0,2024,8,5,Saturday,August,2,middle age,Q Dear
+2024-06-27 19:11:00,M,20,Native American/Alaska Native,unknown,True,5.0,48,0,2024,6,3,Thursday,June,19,adult,Q Mance
+2024-07-29 12:11:00,F,68,Asian,unknown,False,3.0,45,0,2024,7,0,Monday,July,12,senior,Z Denslow
+2024-01-16 06:44:00,M,7,White,unknown,False,5.0,10,0,2024,1,1,Tuesday,January,6,child,J Battson
+2024-03-25 15:51:00,M,76,African American,unknown,False,9.0,50,0,2024,3,0,Monday,March,15,senior,H Allridge
+2024-09-06 13:39:00,M,56,African American,General Practice,False,5.0,55,0,2024,9,4,Friday,September,13,senior,S Nazer
+2024-01-18 10:41:00,F,17,White,unknown,False,5.0,57,0,2024,1,3,Thursday,January,10,young adult,Q McColm
+2023-04-10 01:20:00,F,55,Asian,General Practice,True,5.0,20,0,2023,4,0,Monday,April,1,senior,S Ricardin
+2024-01-10 17:18:00,M,11,White,Orthopedics,True,5.0,60,0,2024,1,2,Wednesday,January,17,child,R McLugish
+2024-05-30 07:53:00,F,40,Native American/Alaska Native,Neurology,True,5.0,39,0,2024,5,3,Thursday,May,7,middle age,J Horley
+2024-04-19 16:42:00,M,38,Asian,Orthopedics,False,5.0,32,0,2024,4,4,Friday,April,16,middle age,X Allard
+2024-06-19 04:22:00,M,37,Asian,General Practice,False,5.0,16,0,2024,6,2,Wednesday,June,4,middle age,G Swatman
+2024-08-16 14:01:00,M,37,White,unknown,True,5.0,55,0,2024,8,4,Friday,August,14,middle age,I Garlic
+2023-12-26 22:20:00,M,32,African American,unknown,True,5.0,51,0,2023,12,1,Tuesday,December,22,middle age,O Plane
+2023-10-20 10:19:00,M,42,African American,unknown,False,5.0,21,0,2023,10,4,Friday,October,10,middle age,O Oxbie
+2023-07-07 13:06:00,M,24,African American,General Practice,False,7.0,40,0,2023,7,4,Friday,July,13,adult,Z Kilgour
+2023-12-27 18:07:00,M,6,Declined to Identify,unknown,True,5.0,32,0,2023,12,2,Wednesday,December,18,child,B Androli
+2024-08-03 16:48:00,M,23,White,unknown,True,5.0,49,0,2024,8,5,Saturday,August,16,adult,Y Tradewell
+2024-06-01 07:47:00,M,9,Two or More Races,unknown,False,5.0,54,0,2024,6,5,Saturday,June,7,child,T Leyborne
+2024-08-08 17:53:00,F,79,Two or More Races,General Practice,True,5.0,35,0,2024,8,3,Thursday,August,17,senior,W Freeborne
+2023-09-18 04:12:00,F,48,Two or More Races,Orthopedics,False,5.0,48,0,2023,9,0,Monday,September,4,middle age,P Kivlehan
+2023-10-02 18:53:00,M,77,Two or More Races,unknown,False,5.0,36,0,2023,10,0,Monday,October,18,senior,Y Brazener
+2023-07-03 06:09:00,M,49,Two or More Races,unknown,True,5.0,52,0,2023,7,0,Monday,July,6,middle age,S Yuill
+2024-03-15 22:11:00,M,67,White,unknown,False,5.0,23,0,2024,3,4,Friday,March,22,senior,E Shyres
+2023-08-18 04:33:00,M,74,African American,Orthopedics,False,5.0,52,0,2023,8,4,Friday,August,4,senior,Y Goalby
+2024-02-26 15:57:00,F,1,African American,Orthopedics,True,5.0,27,0,2024,2,0,Monday,February,15,infant,B Gealy
+2024-02-20 18:19:00,F,6,Asian,unknown,True,5.0,57,0,2024,2,1,Tuesday,February,18,child,K Mullany
+2024-07-20 13:34:00,F,3,Asian,Orthopedics,False,5.0,30,0,2024,7,5,Saturday,July,13,infant,K Raggles
+2024-08-23 16:34:00,M,56,Two or More Races,Orthopedics,True,10.0,60,0,2024,8,4,Friday,August,16,senior,W Wisby
+2024-05-04 17:24:00,M,27,Two or More Races,General Practice,True,5.0,39,0,2024,5,5,Saturday,May,17,adult,R Aikin
+2024-01-03 08:45:00,M,53,African American,General Practice,False,5.0,35,0,2024,1,2,Wednesday,January,8,senior,B Puddicombe
+2023-08-03 17:19:00,M,53,Pacific Islander,Cardiology,True,7.0,45,0,2023,8,3,Thursday,August,17,senior,M Mein
+2024-08-27 14:37:00,F,74,White,unknown,False,8.0,27,0,2024,8,1,Tuesday,August,14,senior,Z Rous
+2024-07-01 19:31:00,F,31,Two or More Races,unknown,False,5.0,31,0,2024,7,0,Monday,July,19,middle age,Q Gorbell
+2024-09-05 06:30:00,M,28,Asian,unknown,False,9.0,29,0,2024,9,3,Thursday,September,6,adult,T Poynton
+2023-12-10 04:39:00,M,36,African American,Orthopedics,True,5.0,42,0,2023,12,6,Sunday,December,4,middle age,D Skacel
+2024-10-24 02:27:00,M,37,White,unknown,True,5.0,18,0,2024,10,3,Thursday,October,2,middle age,Z Warland
+2024-07-25 12:01:00,M,43,Declined to Identify,unknown,False,5.0,32,0,2024,7,3,Thursday,July,12,middle age,O Dwire
+2024-05-06 05:14:00,M,63,Two or More Races,General Practice,True,3.0,59,0,2024,5,0,Monday,May,5,senior,R Pilipyak
+2023-08-30 19:49:00,M,2,Two or More Races,General Practice,False,5.0,38,0,2023,8,2,Wednesday,August,19,infant,Z Teideman
+2023-07-29 21:37:00,M,55,African American,unknown,True,9.0,60,0,2023,7,5,Saturday,July,21,senior,A Offiler
+2024-01-05 20:18:00,M,56,Declined to Identify,unknown,True,5.0,47,0,2024,1,4,Friday,January,20,senior,D Hele
+2023-04-24 09:32:00,M,37,Asian,unknown,True,10.0,58,0,2023,4,0,Monday,April,9,middle age,R Simoncelli
+2023-06-19 03:06:00,NC,70,Asian,unknown,True,4.0,17,0,2023,6,0,Monday,June,3,senior,N Jerdan
+2024-09-01 22:09:00,M,1,Declined to Identify,unknown,False,0.0,32,0,2024,9,6,Sunday,September,22,infant,H Aldridge
+2024-07-28 20:15:00,M,38,African American,General Practice,True,5.0,58,0,2024,7,6,Sunday,July,20,middle age,L Guidera
+2023-07-04 15:59:00,M,52,Two or More Races,Orthopedics,False,4.0,13,0,2023,7,1,Tuesday,July,15,senior,A Punt
+2024-03-25 17:56:00,M,40,White,unknown,True,5.0,39,0,2024,3,0,Monday,March,17,middle age,M Holsey
+2023-11-14 04:15:00,M,1,Declined to Identify,Orthopedics,False,5.0,36,0,2023,11,1,Tuesday,November,4,infant,I Lethbury
+2024-10-18 02:03:00,F,6,African American,unknown,False,5.0,56,0,2024,10,4,Friday,October,2,child,E Boules
+2023-08-26 04:34:00,F,32,White,General Practice,True,5.0,36,0,2023,8,5,Saturday,August,4,middle age,E De Ferrari
+2024-04-26 00:06:00,M,58,African American,unknown,False,5.0,23,0,2024,4,4,Friday,April,0,senior,F Forster
+2024-08-05 22:13:00,F,72,African American,unknown,False,5.0,21,0,2024,8,0,Monday,August,22,senior,H Littrik
+2024-09-07 02:40:00,M,5,African American,unknown,False,5.0,17,0,2024,9,5,Saturday,September,2,infant,S de Verson
+2023-07-16 00:49:00,F,42,White,unknown,True,5.0,48,0,2023,7,6,Sunday,July,0,middle age,F Wenham
+2023-08-14 00:32:00,M,2,Two or More Races,unknown,False,5.0,24,0,2023,8,0,Monday,August,0,infant,E Lavallin
+2023-06-21 09:39:00,M,54,African American,unknown,True,5.0,57,0,2023,6,2,Wednesday,June,9,senior,H Challis
+2023-11-05 06:35:00,F,15,White,General Practice,False,2.0,43,0,2023,11,6,Sunday,November,6,young adult,P Aggis
+2023-11-06 15:28:00,M,3,African American,unknown,True,5.0,24,0,2023,11,0,Monday,November,15,infant,S Stoter
+2023-09-29 04:58:00,M,65,Two or More Races,General Practice,False,5.0,43,0,2023,9,4,Friday,September,4,senior,V Greaser
+2023-07-06 23:28:00,F,18,White,Orthopedics,False,5.0,41,0,2023,7,3,Thursday,July,23,young adult,C Magrane
+2024-03-04 21:13:00,F,12,White,unknown,False,5.0,19,0,2024,3,0,Monday,March,21,child,W Blakelock
+2023-10-31 18:02:00,F,7,White,unknown,False,5.0,17,0,2023,10,1,Tuesday,October,18,child,J Tampion
+2024-04-28 13:58:00,M,32,Two or More Races,unknown,False,5.0,43,0,2024,4,6,Sunday,April,13,middle age,W Dibdale
+2023-08-18 17:54:00,F,23,Two or More Races,Orthopedics,False,5.0,10,0,2023,8,4,Friday,August,17,adult,Z Curl
+2023-05-28 13:19:00,F,77,White,General Practice,False,0.0,52,1,2023,5,6,Sunday,May,13,senior,E Lettuce
+2024-08-17 03:22:00,M,29,Pacific Islander,unknown,True,6.0,47,0,2024,8,5,Saturday,August,3,adult,T Le Clercq
+2023-09-02 23:31:00,F,28,Two or More Races,unknown,False,5.0,45,0,2023,9,5,Saturday,September,23,adult,T Filov
+2024-09-12 13:20:00,F,65,Declined to Identify,Gastroenterology,False,5.0,11,0,2024,9,3,Thursday,September,13,senior,W Du Plantier
+2023-10-25 11:07:00,M,24,Declined to Identify,unknown,False,5.0,56,0,2023,10,2,Wednesday,October,11,adult,F Bird
+2023-10-14 09:32:00,M,28,White,unknown,True,10.0,59,0,2023,10,5,Saturday,October,9,adult,L Dungate
+2024-08-02 16:14:00,M,27,White,Orthopedics,False,0.0,37,0,2024,8,4,Friday,August,16,adult,M MacFarland
+2023-05-31 01:26:00,F,31,Two or More Races,unknown,True,5.0,23,1,2023,5,2,Wednesday,May,1,middle age,I Windas
+2024-03-24 13:40:00,F,61,Two or More Races,unknown,True,5.0,27,0,2024,3,6,Sunday,March,13,senior,J Vigne
+2024-09-13 06:21:00,M,51,Two or More Races,unknown,True,5.0,59,0,2024,9,4,Friday,September,6,senior,A McLaren
+2023-05-27 00:10:00,F,40,African American,General Practice,False,5.0,25,1,2023,5,5,Saturday,May,0,middle age,B Maclean
+2023-11-10 12:19:00,M,6,White,General Practice,True,5.0,21,0,2023,11,4,Friday,November,12,child,E Mixer
+2023-05-10 19:41:00,M,69,African American,unknown,True,7.0,36,1,2023,5,2,Wednesday,May,19,senior,P Wontner
+2024-01-22 22:50:00,F,65,Two or More Races,General Practice,False,5.0,17,0,2024,1,0,Monday,January,22,senior,V Cuschieri
+2023-10-14 13:39:00,F,44,White,unknown,False,5.0,48,0,2023,10,5,Saturday,October,13,middle age,F Yockney
+2023-04-06 20:24:00,M,37,Two or More Races,Cardiology,True,3.0,31,0,2023,4,3,Thursday,April,20,middle age,K Aron
+2024-02-09 14:21:00,M,65,African American,General Practice,True,5.0,25,0,2024,2,4,Friday,February,14,senior,E Rove
+2023-11-11 08:37:00,F,37,Declined to Identify,Gastroenterology,False,5.0,57,0,2023,11,5,Saturday,November,8,middle age,A Pickton
+2024-06-03 02:05:00,F,55,Two or More Races,General Practice,True,5.0,36,0,2024,6,0,Monday,June,2,senior,M Jost
